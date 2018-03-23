@@ -1,0 +1,24 @@
+Manual do Usuário para a aplicação servidor:
+ 
+
+para execução do programa em dispositivos linux, abra o shell(Terminal)
+e digite os seguites comandos:
+	python3 e o "nome da aplicação.py"
+	exemplo:	python3 Servidor.py
+
+já para a execução em dispositivos windows, tenha o python3 instalado, caso não tenha, ele pode ser obtido no link:
+		https://www.python.org/downloads/
+		depois de instalado o python3, basta clicar duas vezes em cima do icone da aplicação que ela iniciara a execução
+
+para a execução da aplicação servidor, o programa criará uma pasta (que fica oculta nas distro linux) ".tmp_srv", que sera apagada apos sua execuação bem sucedida.
+
+OBS:
+	para uma execução sem erros, não exclua ou altere qualquer arquivos contidos na pasta ".tmp_srv", ou mesmo a pasta, isso pode ocasionar em erros de execução da aplicação.
+
+para que fiquem disponiveis os arquivos desejados para que o cliente possa fazer o download dos mesmos, esses arquivos devem ser adicionado ou esta na pasta onde a aplicação servidor esta sendo executada.
+
+
+iniciando a execução da aplicação servidor.py
+	1- Após iniciar a execução do servidor, ele ficara a disposição da aplicação cliente, ele encerrara sua execução quando o cliente enviar uma comfirmação de fim de execução.
+
+	2- Para encerrar a execução do servidor, basta digitar a letra "s" ou "S", a aplicação verificará se ainda há um cliente conectado, caso haja, a aplicação espera essa conexão se encerrar e só depois de confirmado o fim de conexão com o clinete que o servidor encerra sua execução normalmente.
