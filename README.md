@@ -65,17 +65,17 @@ OBS:
 	- opcao (S) para encerrar a execução da aplicação cliente.
 	
 	#=======================================================#
-	# Escolha Uma Opcao:					#
-	# 	A - Para Listar Arquivos.			#
-	# 	B - Para Baixar Um Arquivo.			#
-	# 	C - Apagar todos arquivos baixados.		#
-	# 	D - Apagar Um Arquivo Baixado.			#
-	# 	E - Visualizar Lista de Arquivos Já Baixados.	#
-	# 	L - limpar tela.				#
-	# 	T - Para Baixar Todos os Arquivos.		#
-	# 	S - Sair.					#
+	#= Escolha Uma Opcao:					#
+	#= 	A - Para Listar Arquivos.			#
+	#= 	B - Para Baixar Um Arquivo.			#
+	#= 	C - Apagar todos arquivos baixados.		#
+	#= 	D - Apagar Um Arquivo Baixado.			#
+	#= 	E - Visualizar Lista de Arquivos Já Baixados.	#
+	#=	L - limpar tela.				#
+	#=	T - Para Baixar Todos os Arquivos.		#
+	#= 	S - Sair.					#
 	#=======================================================#
-	#	Digite a opcao: 
+	#=	Digite a opcao: 
 
 
 
