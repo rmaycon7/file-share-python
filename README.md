@@ -20,8 +20,8 @@ OBS:
 
 para que fiquem disponiveis os arquivos desejados para que o cliente possa fazer o download dos mesmos, esses arquivos devem ser adicionado ou esta na pasta onde a aplicação servidor esta sendo executada.
 
--iniciando a execução da aplicação Servidor.py
-	- Após iniciar a execução do servidor, ele ficara a disposição da aplicação cliente, ele encerrara sua conexão quando o cliente enviar uma comfirmação de fim de conexão.
+- iniciando a execução da aplicação Servidor.py
+	- Após iniciar a execução do servidor, ele ficara a disposição da aplicação cliente, ele encerrara sua conexão quando 	o cliente enviar uma comfirmação de fim de conexão.
 	- Para encerrar a execução do servidor, basta digitar a letra "s" ou "S", a aplicação verificará se ainda há um cliente conectado, caso haja, a aplicação espera essa conexão se encerrar e só depois de confirmado o fim de conexão com o clinete que o servidor encerra sua execução normalmente.
   
   ## Manual do Usuário para a aplicação cliente:
